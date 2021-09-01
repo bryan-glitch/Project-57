@@ -1,0 +1,22 @@
+body
+{
+text-align: center;
+background: linear-gradient(#eb4034 0%, #34ebc6 100%);
+    background-repeat: no-repeat;}
+.line{
+height: 10px;
+width: 100px;
+background-color: crimson;
+margin:8px auto;
+}
+h1{
+ text-shadow: 2px 2px red;
+font-size: 20px
+}
+#bio{
+padding: 20px;
+font-size: 18px;
+}
+img{
+height: 150px
+}
